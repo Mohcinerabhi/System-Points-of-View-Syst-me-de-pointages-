@@ -7,7 +7,7 @@
 return [
     'host'     => 'localhost',
     'port'     => 3306,
-    'dbname'   => 'attendance_db',
+    'dbname'   => '',
     'username' => 'root',
     'password' => '',
     'charset'  => 'utf8mb4',
