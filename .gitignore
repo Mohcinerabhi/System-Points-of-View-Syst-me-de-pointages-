@@ -1,0 +1,43 @@
+# Logs
+logs/
+storage/logs/
+*.log
+*.zip
+
+# Temporary / debug files
+check_db.php
+check_work_status.php
+fix_all.php
+fix_workflow.php
+test_php.php
+_seed.php
+tok.txt
+
+# Database dumps / backups
+*.sql
+*.sql.zip
+*.bak
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# PHP dependencies
+/vendor/
+
+# Local configuration
+.env
+.env.*
+!.env.example
+
+# Temporary uploads
+uploads/temp/
+uploads/tmp/
+
+# Runtime/cache
+storage/cache/
+storage/tmp/
+uploads/employees/.gitkeepuploads/employees/*.svg
