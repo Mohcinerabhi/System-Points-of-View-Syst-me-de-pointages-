@@ -1,5 +1,5 @@
 <?php
-/**
+/*
  * Arabic translations
  */
 return [
